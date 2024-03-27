@@ -1,0 +1,37 @@
+{
+  "name": "vue-cli-auto-router-plugin",
+  "version": "1.0.0",
+  "description": "创建路由",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eileen0817/vue-cli-auto-router-plugin.git",
+    "directory": "vue-cli-auto-router-plugin"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "generate",
+    "router",
+    "plugin",
+    "vue-cli-plugin-create-router",
+    "vue-cli-auto-router-plugin"
+  ],
+  "homepage": "https://github.com/eileen0817/vue-cli-auto-router-plugin/blob/master/README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ye",
+  "license": "MIT",
+  "dependencies": {
+    "globby": "^9.2.0",
+    "chalk": "^2.4.2",
+    "watch": "^1.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/eileen0817/vue-cli-auto-router-plugin.git"
+  }
+}
